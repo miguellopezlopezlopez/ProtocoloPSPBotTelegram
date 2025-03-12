@@ -4,8 +4,8 @@ from telegram import Update, Message
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, CallbackContext
 
 # Configuración del bot de Telegram
-TOKEN = "7287970794:AAHKRKvMqar1GaJWSbHX00QTrT-Zyean8Ko"
-CHAT_ID_GRUPO = "-1002315713607"  # Reemplaza con el ID del chat de Telegram
+TOKEN = ""  #Reemplaza con el token de tu Bot
+CHAT_ID_GRUPO = ""  # Reemplaza con el ID del chat de Telegram
 
 # Configuración del servidor TCP
 SERVER_IP = "127.0.0.1"  # Cambia si el servidor está en otra máquina
