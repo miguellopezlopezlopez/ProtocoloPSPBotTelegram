@@ -94,18 +94,9 @@ python bot.py
 
 ---
 
-## 📸 Capturas de Pantalla
-📌 **Aquí puedes insertar capturas del funcionamiento:**
-- Inicio del servidor.
-- Conexión del cliente.
-- Mensajes en tiempo real.
-- Integración con Telegram.
-
----
-
-
 ## 📌 Conclusión
 Este sistema de chat permite la comunicación en tiempo real con integración en Telegram. Su arquitectura basada en **sockets TCP** lo hace rápido y eficiente.
 
 Se pueden agregar mejoras como autenticación, almacenamiento de mensajes en una base de datos y soporte para múltiples salas de chat.
+
 
